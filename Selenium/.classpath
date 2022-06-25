@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="var" path="USER_HOME/Documents/Selenium Set Up/jars and drivers/okio-1.14.0.jar" sourcepath="/USER_HOME/Documents/Selenium Set Up/jars and drivers/okio-1.14.0.jar"/>
+	<classpathentry kind="output" path="out/production/Selenium"/>
+</classpath>
